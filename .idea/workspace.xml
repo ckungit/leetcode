@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f37bab80-94ba-479d-b39c-6d1e15e05522" name="Default Changelist" comment="" />
+    <list default="true" id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +15,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1TDf8hTHtF9IBPbRirYge3wo6KT" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TEXNaFvdl0gNFQLwHVS06BwHhk" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,8 +35,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Solution70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution70" />
+    <configuration name="Solution101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution101" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -47,7 +50,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution70" />
+        <item itemvalue="Application.Solution101" />
       </list>
     </recent_temporary>
   </component>
@@ -56,21 +59,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f37bab80-94ba-479d-b39c-6d1e15e05522" name="Default Changelist" comment="" />
-      <created>1572999428624</created>
+      <changelist id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="" />
+      <created>1573026188790</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572999428624</updated>
+      <updated>1573026188790</updated>
     </task>
     <servers />
   </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand>
-      <path>
-        <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-        <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-      </path>
-    </expand>
-    <select />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -41,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution88">
-    <configuration name="Solution66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution66" />
+  <component name="RunManager" selected="Application.Solution104">
+    <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -55,21 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution67" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.ckun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution77" />
+    <configuration name="Solution104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution104" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution96" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.ckun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution104" />
+        <item itemvalue="Application.Solution100" />
+        <item itemvalue="Application.Solution96" />
         <item itemvalue="Application.Solution88" />
         <item itemvalue="Application.Solution83" />
-        <item itemvalue="Application.Solution77" />
-        <item itemvalue="Application.Solution67" />
-        <item itemvalue="Application.Solution66" />
       </list>
     </recent_temporary>
   </component>

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution111.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TEXNaFvdl0gNFQLwHVS06BwHhk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution104">
+  <component name="RunManager" selected="Application.Solution111">
     <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
       <module name="leetcode" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution83" />
+    <configuration name="Solution111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution111" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution111" />
         <item itemvalue="Application.Solution104" />
         <item itemvalue="Application.Solution100" />
         <item itemvalue="Application.Solution96" />
         <item itemvalue="Application.Solution88" />
-        <item itemvalue="Application.Solution83" />
       </list>
     </recent_temporary>
   </component>

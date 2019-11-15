@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution111">
+  <component name="RunManager" selected="Application.Solution152">
     <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
       <module name="leetcode" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution88" />
+    <configuration name="Solution152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution152" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution152" />
         <item itemvalue="Application.Solution111" />
         <item itemvalue="Application.Solution104" />
         <item itemvalue="Application.Solution100" />
         <item itemvalue="Application.Solution96" />
-        <item itemvalue="Application.Solution88" />
       </list>
     </recent_temporary>
   </component>

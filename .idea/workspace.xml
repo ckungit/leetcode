@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfea9eaa-e52f-4282-a398-bc08c5c06b2a" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution674.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution771.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution884.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Tmq523wKXzqtnuYhuyE6aPPOt8" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="添加" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="copyright" />
@@ -38,20 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution674">
-    <configuration name="Solution162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution162" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.ckun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution884">
     <configuration name="Solution216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution216" />
       <module name="leetcode" />
@@ -78,11 +69,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution704" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution704" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.ckun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution771" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution771" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.ckun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution884" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.ckun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution884" />
+        <item itemvalue="Application.Solution771" />
+        <item itemvalue="Application.Solution704" />
         <item itemvalue="Application.Solution674" />
         <item itemvalue="Application.Solution216" />
-        <item itemvalue="Application.Solution162" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +136,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

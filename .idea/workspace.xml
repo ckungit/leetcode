@@ -21,9 +21,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="ProjectId" id="1TEXNaFvdl0gNFQLwHVS06BwHhk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution104">
+  <component name="RunManager" selected="Application.Solution112">
     <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
       <module name="leetcode" />
@@ -68,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution83" />
+    <configuration name="Solution112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution112" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution88" />
+    <configuration name="Solution58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution58" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution112" />
+        <item itemvalue="Application.Solution58" />
         <item itemvalue="Application.Solution104" />
         <item itemvalue="Application.Solution100" />
         <item itemvalue="Application.Solution96" />
-        <item itemvalue="Application.Solution88" />
-        <item itemvalue="Application.Solution83" />
       </list>
     </recent_temporary>
   </component>

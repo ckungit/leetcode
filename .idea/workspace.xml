@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution152.java" afterDir="false" />
+    <list default="true" id="dfea9eaa-e52f-4282-a398-bc08c5c06b2a" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution674.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,25 +20,11 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
-  </component>
-  <component name="ProjectId" id="1TEXNaFvdl0gNFQLwHVS06BwHhk" />
   <component name="ProjectLevelVcsManager">
-<<<<<<< HEAD
     <ConfirmationsSetting value="2" id="添加" />
-=======
-    <ConfirmationsSetting value="2" id="Add" />
->>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,13 +38,9 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Solution112">
-=======
-  <component name="RunManager" selected="Application.Solution152">
->>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
-    <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
+  <component name="RunManager" selected="Application.Solution674">
+    <configuration name="Solution162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution162" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution104" />
+    <configuration name="Solution216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution216" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -81,44 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Solution112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution112" />
-=======
-    <configuration name="Solution111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution111" />
->>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.ckun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="Solution58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution58" />
-=======
-    <configuration name="Solution152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution152" />
->>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.ckun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution96" />
+    <configuration name="Solution674" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution674" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -132,16 +80,9 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Solution112" />
-        <item itemvalue="Application.Solution58" />
-=======
-        <item itemvalue="Application.Solution152" />
-        <item itemvalue="Application.Solution111" />
->>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
-        <item itemvalue="Application.Solution104" />
-        <item itemvalue="Application.Solution100" />
-        <item itemvalue="Application.Solution96" />
+        <item itemvalue="Application.Solution674" />
+        <item itemvalue="Application.Solution216" />
+        <item itemvalue="Application.Solution162" />
       </list>
     </recent_temporary>
   </component>
@@ -150,11 +91,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="" />
-      <created>1573026188790</created>
+      <changelist id="dfea9eaa-e52f-4282-a398-bc08c5c06b2a" name="默认更改列表" comment="" />
+      <created>1574052406472</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573026188790</updated>
+      <updated>1574052406472</updated>
     </task>
     <servers />
   </component>
@@ -163,9 +104,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

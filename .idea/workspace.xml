@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf1c07ac-4120-4bb4-8625-ef72345ad25b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ckun/Solution152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +27,11 @@
   </component>
   <component name="ProjectId" id="1TEXNaFvdl0gNFQLwHVS06BwHhk" />
   <component name="ProjectLevelVcsManager">
+<<<<<<< HEAD
     <ConfirmationsSetting value="2" id="添加" />
+=======
+    <ConfirmationsSetting value="2" id="Add" />
+>>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -48,7 +50,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Solution112">
+=======
+  <component name="RunManager" selected="Application.Solution152">
+>>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
     <configuration name="Solution100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution100" />
       <module name="leetcode" />
@@ -75,8 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Solution112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution112" />
+=======
+    <configuration name="Solution111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution111" />
+>>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Solution58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.ckun.Solution58" />
+=======
+    <configuration name="Solution152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ckun.Solution152" />
+>>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +132,13 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Solution112" />
         <item itemvalue="Application.Solution58" />
+=======
+        <item itemvalue="Application.Solution152" />
+        <item itemvalue="Application.Solution111" />
+>>>>>>> 5546648c6374b2b9199135af4c0cb04a2cd6a744
         <item itemvalue="Application.Solution104" />
         <item itemvalue="Application.Solution100" />
         <item itemvalue="Application.Solution96" />
